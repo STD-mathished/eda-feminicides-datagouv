@@ -14,12 +14,11 @@ L'objectif de ce dépôt est d'utiliser la Data Science et l'ingénierie de la d
 
 ## Source des données
 
-Les données utilisées dans ce projet proviennent de la plateforme **data.gouv.fr**. 
-* **Lien des dataset :** 
-* [Décompte et recensement des féminicides](https://www.data.gouv.fr/datasets/decompte-et-recensement-des-feminicides) - données d'août 2026
+Les données utilisées dans ce projet proviennent de la plateforme **data.gouv.fr** :
 
-
-* [Cartographie des cellules de lutte contre les violences sexistes et sexuelles] (https://www.data.gouv.fr/datasets/cartographie-des-cellules-de-lutte-contre-les-violences-sexistes-et-sexuelles) - données du 24 février 2026
+- **Liens vers les jeux de données :**
+  - [Décompte et recensement des féminicides](https://www.data.gouv.fr/datasets/decompte-et-recensement-des-feminicides) — *données d'août 2026*
+  - [Cartographie des cellules de lutte contre les violences sexistes et sexuelles](https://www.data.gouv.fr/datasets/cartographie-des-cellules-de-lutte-contre-les-violences-sexistes-et-sexuelles) — *données du 24 février 2026*
 
 * **Licence :** Licence Ouverte / Etalab (utilisation et republication libres)
 
